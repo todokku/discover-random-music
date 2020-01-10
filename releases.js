@@ -1,7 +1,7 @@
 class Releases{
     constructor(){
-        this.client_key = 'XVNpCNdnFlCtmNPQhwec';
-        this.secret_key = 'eJIgIRqTECknluHUTeDIJtnYwtxPpexf'
+        this.client_key = 'CJrfYqMDmJdCZFcjeUqa';
+        this.secret_key = 'zmYfODtWMFTmPFephSePzTMEuNEcuhqe'
         this.per_page = 15;
         this.page = 1;
     }
